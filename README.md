@@ -272,21 +272,6 @@ Want more? Add support for:
 
 ---
 
-## 📜 License
-
-<div align="center">
-
-**MIT License** — Use it freely, modify it, share it!
-
-```
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software... deal in the Software without restriction...
-```
-
-</div>
-
----
-
 ## 🙏 Acknowledgments
 
 <div align="left">
