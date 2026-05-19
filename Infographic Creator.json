@@ -4,7 +4,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://api.apify.com/v2/acts/pintostudio~youtube-transcript-scraper/run-sync-get-dataset-items?token=apify_api_1O8uFHy1xTSXMDa2BUuSwRYmbm5o1A1TigYh",
+        "url": "https://api.apify.com/v2/acts/pintostudio~youtube-transcript-scraper/run-sync-get-dataset-items?token=your_apify_api",
         "sendQuery": true,
         "queryParameters": {
           "parameters": [
